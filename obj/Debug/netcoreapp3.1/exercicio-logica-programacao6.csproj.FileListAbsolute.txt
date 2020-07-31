@@ -1,0 +1,13 @@
+C:\repo\exercicio-logica-programacao6\bin\Debug\netcoreapp3.1\exercicio-logica-programacao6.exe
+C:\repo\exercicio-logica-programacao6\bin\Debug\netcoreapp3.1\exercicio-logica-programacao6.deps.json
+C:\repo\exercicio-logica-programacao6\bin\Debug\netcoreapp3.1\exercicio-logica-programacao6.runtimeconfig.json
+C:\repo\exercicio-logica-programacao6\bin\Debug\netcoreapp3.1\exercicio-logica-programacao6.runtimeconfig.dev.json
+C:\repo\exercicio-logica-programacao6\bin\Debug\netcoreapp3.1\exercicio-logica-programacao6.dll
+C:\repo\exercicio-logica-programacao6\bin\Debug\netcoreapp3.1\exercicio-logica-programacao6.pdb
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.csprojAssemblyReference.cache
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.AssemblyInfoInputs.cache
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.AssemblyInfo.cs
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.csproj.CoreCompileInputs.cache
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.dll
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.pdb
+C:\repo\exercicio-logica-programacao6\obj\Debug\netcoreapp3.1\exercicio-logica-programacao6.genruntimeconfig.cache
